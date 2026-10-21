@@ -4,7 +4,7 @@
 
 <p align="center">
  
-  <img src="Screenshot 2026-10-16 013450.png"  width="100%"/>
+  <img src="2026-10-21.png"  width="100%"/>
 </p>
 
 <h2 align="center">Flutter Batch 02 Assignment</h2>
